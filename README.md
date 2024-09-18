@@ -6,6 +6,17 @@ Welcome to **Movie Fan Page** – an interactive webpage for movie fans featurin
 
 This project is a movie fan page with a visually engaging interface. It showcases movie posters, a trailer for movie enthusiasts, and an interactive trivia quiz to test users' knowledge of popular movies. Additionally, users are greeted with a famous quote from various iconic movies each time they visit the page.
 
+## Table of Contents
+
+- [Features](#features)
+- [File Structure](#filestructure)
+- [Usage](#usage)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+- [Contact](#contact)
+- [Website](#website)
+
+
 ### Features
 
 1. **Movie Posters**: Display various movie posters with hover animations.
