@@ -12,6 +12,7 @@ This project is a movie fan page with a visually engaging interface. It showcase
 - [File_Structure](#file_structure)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
+- [Contributing](#contributing)
 - [Contact](#contact)
 - [Website](#website)
 
