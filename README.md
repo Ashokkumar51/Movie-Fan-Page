@@ -12,7 +12,6 @@ This project is a movie fan page with a visually engaging interface. It showcase
 - [File_Structure](#file_structure)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 - [Contact](#contact)
 - [Website](#website)
 
@@ -60,8 +59,21 @@ This project is a movie fan page with a visually engaging interface. It showcase
 ## Acknowledgments
 Developed by Ashok Kumar Soutapalli as part of a web development project to engage movie lovers with an immersive and interactive platform.
 
-Feel free to fork, clone, and contribute!
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or spot any issues, feel free to open an issue or create a pull request.
 
-This README file outlines the purpose, features, file structure, and usage of our project, making it ready for upload to GitHub.
+## Contact
+GitHub: Ashokkumar51
+LinkedIn: Soutapalli Ashok Kumar
+
+Make sure to replace
+`"https://github.com/Ashokkumar51/Movie-Fan-Page"`
+with the actual values for your GitHub repository before uploading it.
+
+## Website
+````bash
+    
+
+
 
    
