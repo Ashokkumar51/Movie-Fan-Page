@@ -9,7 +9,7 @@ This project is a movie fan page with a visually engaging interface. It showcase
 ## Table of Contents
 
 - [Features](#features)
-- [File Structure](#file_structure)
+- [File_Structure](#file_structure)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
@@ -24,7 +24,7 @@ This project is a movie fan page with a visually engaging interface. It showcase
 3. **Quote of the Day**: A random movie quote displayed each time the page is loaded.
 4. **Trivia Quiz**: An interactive quiz with multiple questions related to popular movie franchises like Star Wars, Harry Potter, and Marvel. Users can start and stop the quiz at any time.
 
-## File Structure
+## File_Structure
 
 1. **index.html**: The main structure of the webpage.
     - Contains sections for the movie posters, trailer, quote of the day, and trivia quiz.
