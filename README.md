@@ -36,11 +36,12 @@ This project is a movie fan page with a visually engaging interface. It showcase
 
 3. **Customizing the Quiz**:
    You can add more trivia questions in the `scripts.js` file by editing the questions array. Each question has the following structure:
-   `{
+   ```bash
+   {
     question: "Your question here?",
     options: ["Option 1", "Option 2", "Option 3", "Option 4"],
     answer: 0  // Index of the correct option
-    }`
+    }
    
 4. **Modify the Trailer**:
    Change the trailer by updating the YouTube video ID in the <iframe> inside the `index.html` file.
