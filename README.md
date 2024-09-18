@@ -9,7 +9,7 @@ This project is a movie fan page with a visually engaging interface. It showcase
 ## Table of Contents
 
 - [Features](#features)
-- [File Structure](#filestructure)
+- [File Structure](#file_structure)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
